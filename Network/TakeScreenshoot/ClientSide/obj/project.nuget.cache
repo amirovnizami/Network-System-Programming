@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2EWaIh6Opc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\Network\\TakeScreenshoot\\ClientSide\\ClientSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amiro\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\amiro\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
